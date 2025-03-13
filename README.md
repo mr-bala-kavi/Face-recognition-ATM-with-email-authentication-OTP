@@ -8,7 +8,7 @@ USE PYTHON 3.8 T- 3.11 (In this project Python 3.10 is used)
 
 1. Create a new folder "your_folder_name"
 
-2. Open "your_folder_name"
+2. Open "your_folder_name" and create "faces" folder
 
 3. Create a virtual environment
 
@@ -24,4 +24,8 @@ USE PYTHON 3.8 T- 3.11 (In this project Python 3.10 is used)
     
 6. Copy faces folder, accounts.csv, app.py, capture_face.py, requirements.txt to your_folder
 
-7. Then run you GUI based Face Recognition ATM by cmd (python capture_face.py) - for capture and save the face & (python app.py) - for run GUI 
+7. Alter 'app.py' code with your email and app password
+
+8. App password can be created through your email account ( google-->my account-->search app-->ceate app name-->password generated automatically )
+
+9. Then run you GUI based Face Recognition ATM by cmd (python capture_face.py) - for capture and save the face & (python app.py) - for run GUI 
