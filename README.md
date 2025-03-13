@@ -26,6 +26,6 @@ USE PYTHON 3.8 T- 3.11 (In this project Python 3.10 is used)
 
 7. Alter 'app.py' code with your email and app password
 
-8. App password can be created through your email account ( google-->my account-->search app-->ceate app name-->password generated automatically )
+8. App password can be created through your email account ( google-->my account-->search app-->create app name-->password generated automatically )
 
 9. Then run you GUI based Face Recognition ATM by cmd (python capture_face.py) - for capture and save the face & (python app.py) - for run GUI 
