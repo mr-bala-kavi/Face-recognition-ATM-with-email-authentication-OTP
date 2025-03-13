@@ -1,0 +1,7 @@
+PyQt6
+pandas
+face_recognition
+opencv-python
+smtplib
+cmake
+dlib
