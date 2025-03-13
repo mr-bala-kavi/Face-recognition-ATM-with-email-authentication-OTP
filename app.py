@@ -151,8 +151,8 @@ class FaceLogin(QWidget):
 
         smtp_server = "smtp.gmail.com"
         smtp_port = 587
-        sender_email = "balakavi64@gmail.com"
-        sender_password = "maoavtrlwcpnokpn"
+        sender_email = "yourmail@gmail.com"
+        sender_password = "your-app-passowrd"
 
         message = MIMEMultipart()
         message["From"] = sender_email
